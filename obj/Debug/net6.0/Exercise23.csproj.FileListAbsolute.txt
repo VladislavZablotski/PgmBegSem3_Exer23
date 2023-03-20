@@ -1,0 +1,15 @@
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.csproj.AssemblyReference.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.GeneratedMSBuildEditorConfig.editorconfig
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfoInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfo.cs
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.csproj.CoreCompileInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\bin\Debug\net6.0\Exercise23.exe
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\bin\Debug\net6.0\Exercise23.deps.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\bin\Debug\net6.0\Exercise23.runtimeconfig.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\bin\Debug\net6.0\Exercise23.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\bin\Debug\net6.0\Exercise23.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\refint\Exercise23.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\Exercise23.genruntimeconfig.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise23\obj\Debug\net6.0\ref\Exercise23.dll
